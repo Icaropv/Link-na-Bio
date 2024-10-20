@@ -69,7 +69,7 @@ function Bio() {
             <footer className="text-white  flex text-center justify-center gap-3  " >
                 
                 <p className="mb-2">&copy; Icaro Paiva - 2024 </p>
-                <a href="https://www.instagram.com/icaropv_/">
+                <a href="https://icaropaivadev.netlify.app">
                     <FaInstagram   className="mt-[5px]"/> 
                 </a>
             </footer>
