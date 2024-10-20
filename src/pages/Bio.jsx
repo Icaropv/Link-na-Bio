@@ -3,7 +3,7 @@ import LogoHs from "../assets/logoHs.jpeg"
 import { FaLocationDot } from "react-icons/fa6";
 import { FaWhatsapp } from "react-icons/fa";
 import { FaCalendarAlt } from "react-icons/fa";
-import { motion } from "framer-motion";
+
 import { Swiper, SwiperSlide } from "swiper/react";
 import image1 from "../assets/corte1.jpeg"
 import image2 from "../assets/corte2.jpeg"
