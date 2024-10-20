@@ -4,9 +4,12 @@
 
 
 .swiper-button-next, .swiper-button-prev {
-    color: white;
+    color: rgb(255, 255, 255);
+
+    
 }
 
 .swiper-pagination-bullet, .swiper-pagination-bullet-active {
     background-color: white;
 }
+
