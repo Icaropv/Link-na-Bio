@@ -41,7 +41,7 @@ function Bio() {
                 <strong><Button nome={"Agendar agora"} icone={<FaCalendarAlt className="text-[30px]  mr-[-13px]" />} /></strong>
             </a>
 
-            <a href="https://api.whatsapp.com/message/YENRQI4HSC7HG1?autoload=1&app_absent=0">
+            <a href="https://w.app/1SaObW">
 
                 <strong><Button nome={"WhatsApp" } icone={<FaWhatsapp className=" text-[30px] " />} /></strong>
             </a>
